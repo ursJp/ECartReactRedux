@@ -1,0 +1,8 @@
+.cart__head{
+display: flex;
+flex-direction: column;
+margin: 10;
+background-color: #ececec;
+padding: 10;
+width: 20%;
+}
